@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: curl https://jcarrete.atlassian.net/rest/api/3/issue/NOTES-3 --user robertocarrete94@gmail.com:ATATT3xFfGF0Hu28Hwat9ORbqe4lsxo0BeEEDvvWqmYVvI6-HzrpL7sPmVnkvkkdHoKHyCDCMG7U5859lwZz2tnu2etGn4xIaGd_cZAMXJPsKFcah-S8v1EnpxBhivnXd7OdA9DQ316PU6YKVXcQz6rhxaF-RRdQG0w3ajQiEXTl9SKvVvGAysk=80B7863E
+        run: curl https://jcarrete.atlassian.net/rest/api/3/issue/NOTES-3 --user robertocarrete94@gmail.com:ATATT3xFfGF0Cuv6Ez9wG-5-zJwlurvUlu_w3nOtoVW4LsRtmG1RTIQ_Xkg3SLUuwxjzOq9gkBmPsfSOADznX488eTZDyIcMoAt5kQgH99hCfbe5vIad8Eyosevm8dkubb44qF85G2lvdpqKCcUv1JQxS8682G4JKii4nlmiMoOMpEtJ79-jgSE=3CBA003F
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
